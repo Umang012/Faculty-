@@ -1,0 +1,48 @@
+body,
+html {
+  
+    height: 100%;
+    width: 100%;
+    font-family: 'Baloo Bhaina 2', cursive;
+    background: url(https://cdn.pixabay.com/photo/2018/02/23/04/38/laptop-3174729_1280.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+h1 {
+    font-size: 4rem;
+    color: white;
+    text-align: center;
+    
+}
+
+
+.buffer{
+    height: 50px;
+}
+
+.btn-light{
+    font-weight: 700;
+    border-radius: 200px;
+    text-transform: uppercase;
+   
+}
+.btn-light{
+   
+    border-color: black;
+
+}
+
+.btn-light :hover {
+    background-color:#6c757d;;
+    border-color: white;
+    border-width: 6px;
+    
+
+}
+
+.btn-Xl {
+    padding: 1rem 2rem;
+}
